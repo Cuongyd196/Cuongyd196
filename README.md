@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1>Hi There👋</h1>
 
-<!--
-**Cuongyd196/Cuongyd196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>I'm Cuong Nguyen</b>. I'm DevOps Engineer and Web Developer
+- 💻 I’m currently working on Docker, Jenkins, Linux OS, Reactjs, Nodejs, MongoDB and React Native.
+- 👨‍💻 My website [https://cuongit.net](https://cuongit.net)
 
-Here are some ideas to get you started:
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,jenkins,git,vscode,js,mongodb,nodejs,react,net)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<summary style="color:gray">More Details⚡</summary>
+
+### Github Stats:
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=cuongyd196&count_private=true&show_icons=true&hide_border=true&&theme=tokyonight)](https://github.com/cuongyd196)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cuongyd196&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuongyd196&layout=compact&hide=makefile,c++&hide_border=true&&theme=tokyonight)](https://github.com/cuongyd196)
+
+### Published Templates:
+
+- [ictshop_aspnet](https://github.com/Cuongyd196/ictshop_aspnet)
+- [React-native-tensorflowjs-Example](hhttps://github.com/Cuongyd196/React-native-tensorflowjs-Example)
+- [Blockchain_MocChauMilk](https://github.com/Cuongyd196/Blockchain_MocChauMilk)
+- [WebAppYte](https://github.com/Cuongyd196/WebAppYte)
+
+### Visitor Counter:
+
+<img alt="me" width="50%" src="https://profile-counter.glitch.me/cuongyd196/count.svg" />
+
+
