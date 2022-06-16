@@ -1,6 +1,6 @@
 <h1>Hi There👋</h1>
 
-<b>I'm Cuong Nguyen</b>. I'm DevOps Engineer and Web Developer
+<b>I'm Cuong Nguyen</b>. I'm DevOps Engineer and Developer
 - 💻 I’m currently working on Docker, Jenkins, Linux OS, Reactjs, Nodejs, MongoDB and React Native.
 - 👨‍💻 My website [https://cuongit.net](https://cuongit.net)
 
@@ -16,10 +16,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuongyd196&layout=compact&hide=makefile,c++&hide_border=true&&theme=tokyonight)](https://github.com/cuongyd196)
 
-### Published Templates:
+### Published source code:
 
 - [ictshop_aspnet](https://github.com/Cuongyd196/ictshop_aspnet)
-- [React-native-tensorflowjs-Example](hhttps://github.com/Cuongyd196/React-native-tensorflowjs-Example)
+- [React-native-tensorflowjs-Example](https://github.com/Cuongyd196/React-native-tensorflowjs-Example)
 - [Blockchain_MocChauMilk](https://github.com/Cuongyd196/Blockchain_MocChauMilk)
 - [WebAppYte](https://github.com/Cuongyd196/WebAppYte)
 
