@@ -1,7 +1,7 @@
 <h1>Hi There👋</h1>
 
 <b>I'm Cuong Nguyen</b>. I'm DevOps Engineer and Devloper
-- 💻 I’m currently working on Linux OS, Docker, Jenkins, ReactJs, NodeJs, React Native and MongoDB.
+- 💻 I’m currently working on Linux OS, Docker, Jenkins, ReactJs, NodeJs, React Native, DotNet and MongoDB.
 - 👨‍💻 My website [https://cuongit.net](https://cuongit.net)
 
 ### Languages and Tools:
