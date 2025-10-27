@@ -20,8 +20,5 @@
 - [Blockchain_MocChauMilk](https://github.com/Cuongyd196/Blockchain_MocChauMilk)
 - [WebAppYte](https://github.com/Cuongyd196/WebAppYte)
 
-### Visitor Counter:
-
-<img alt="me" width="50%" src="https://profile-counter.glitch.me/cuongyd196/count.svg" />
 
 
