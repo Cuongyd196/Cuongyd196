@@ -3,7 +3,7 @@
 <h3 align="center">I'm Cuong Nguyen</h3>
 
 <p align="center">
-  🚀 DevOps Engineer | 💻 Software Engineer | 🤖 AI Enthusiast
+  🚀 DevOps Engineer | 💻 Software Engineer | 🤖 AI Automation
 </p>
 
 <p align="center">
@@ -36,19 +36,6 @@
 - 🧠 AI tools & integrations  
 - 🐍 Python for automation, scripting and AI workflows  
 - 🔄 n8n (workflow automation, integrations, no-code/low-code pipelines)  
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cuongyd196&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=cuongyd196&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongyd196&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
