@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  <a href="https://cuongit.net">🌐 Website</a> •
+  <a href="https://me.cuongit.net">🌐 Website</a> •
   <a href="https://github.com/cuongyd196">💼 GitHub</a>
 </p>
 
 ---
-
+me.
 ### 🚀 About Me
 
 - 🔧 DevOps Engineer with experience in CI/CD, automation and infrastructure  
@@ -71,7 +71,7 @@
 
 ### 📫 Contact Me
 
-- 🌐 Website: https://cuongit.net  
+- 🌐 Website: https://me.cuongit.net  
 - 💼 GitHub: https://github.com/cuongyd196  
 
 ---
