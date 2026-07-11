@@ -12,7 +12,7 @@
 </p>
 
 ---
-me.
+
 ### 🚀 About Me
 
 - 🔧 DevOps Engineer with experience in CI/CD, automation and infrastructure  
