@@ -39,20 +39,6 @@
 
 ---
 
-### 📦 Featured Projects
-
-#### 🔹 Backend & Fullstack
-- 🛒 [ictshop_aspnet](https://github.com/Cuongyd196/ictshop_aspnet) — E-commerce system built with ASP.NET  
-- 🏥 [WebAppYte](https://github.com/Cuongyd196/WebAppYte) — Healthcare web application  
-
-#### 🔹 Mobile & AI
-- 🤖 [React Native TensorflowJS Example](https://github.com/Cuongyd196/React-native-tensorflowjs-Example) — AI integration on mobile  
-
-#### 🔹 Blockchain
-- ⛓️ [Blockchain MocChauMilk](https://github.com/Cuongyd196/Blockchain_MocChauMilk) — Supply chain tracking with blockchain  
-
----
-
 ### 📈 Contribution Activity
 
 <p align="center">
